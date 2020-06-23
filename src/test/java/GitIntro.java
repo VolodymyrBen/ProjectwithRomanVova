@@ -11,6 +11,10 @@ public class GitIntro {
         StringBuilder reversed1= new StringBuilder();
         reversed1.append(reversed).reverse();
         System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+        System.out.println(reversed1);
+       
     }
 
 
